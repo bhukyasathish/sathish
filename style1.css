@@ -1,0 +1,49 @@
+body {
+	margin: 0px;
+}
+
+#body-header {
+	height: 65vh;
+	background-image: url(https://resumeprocanada.ca/wp-content/uploads/2019/03/resume-cover-letters-widget.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+div {
+	margin: 0px;
+}
+
+#body-contain {
+	margin-top: -370px;
+	margin-left: 50px;
+}
+
+#body-contain a {
+	color: white;
+	padding: 52px;
+	text-decoration: none;
+}
+
+#body-contain a:hover {
+	color: red;
+}
+
+   #body-photo {
+	height: 30vh;
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-ztKxSiLX-phFivnhooKOkWCU_JCqdQC7DQ&usqp=CAU);
+	border-radius: 50%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}
+
+
+#heading {
+	color: white;
+	font-size: 40px;
+	font-family: sans-serif;
+	margin-left: 430px;
+	margin-top: -130px;
+}

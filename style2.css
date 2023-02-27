@@ -1,0 +1,10 @@
+body {
+	margin: 0px;
+}
+
+body {
+	background-image: url(HTML/laptop.jpg);
+	height: 65vh;
+	background-size: cover;
+	background-position: center;
+}

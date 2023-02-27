@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+
+	<style>
+
+		ul {
+            list-style-type: none;
+			width: 450px;
+			padding: 10px;
+			background-color: #f1f1f1;
+			text-align: center;
+		}
+
+		li {
+			padding: 10px;
+			float: left;
+		}
+
+		li a{
+			text-decoration: none;
+			padding: 10px;
+			display: block;
+		}
+
+        li a:hover {
+        	background-color: #555;
+        	color: white;
+        }
+
+        li a.active {
+             background-color: #04AA6D;
+             color: white;
+        }
+
+        li a:hover:not(.active) {
+             background-color: #555;
+             color: white;
+        }
+
+	</style>
+</head>
+<body>
+
+
+	<ul class = "nav">
+		<li> <a class = "active" href = "#home"> Home </a></li>
+		<li> <a href = "#about"> About </a></li>
+		<li> <a href = "#food"> Food </a></li>
+		<li> <a href = "#bills"> Bills </a></li>
+		<li> <a href = "#thankyou"> Thank You </a></li>
+	</ul>
+
+</body>
+</html>

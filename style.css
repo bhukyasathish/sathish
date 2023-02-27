@@ -1,0 +1,149 @@
+body {
+	background-color: #290225;
+}
+
+h4 {
+	color: white;
+	padding: 0px;
+	margin-left: 80px;
+}
+
+h5 {
+	color: white;
+	padding: 0px;
+	margin-top: -60px;
+	margin-left: 230px;
+}
+
+img {
+	width: 400px;
+	height: 250px;
+	padding: 0px;
+	margin-left: 80px;
+	margin-top: 20px;
+} 
+
+h3 {
+	color: white;
+	padding: 0px;
+	margin-top: -235px;
+	margin-left: 505px;
+	font-size: 30px;
+
+}
+
+#para1 {
+	color: white;
+	width: 400px;
+	height: 100px; 
+	padding: 0px;
+	margin-top: -35px;
+	margin-left: 505px;
+}
+
+/*  #para2 {
+	color: white;
+	padding: 0px;
+	margin-top: -225px;
+	margin-left: 800px;
+}  */
+
+
+#search {
+	color: #010c1f;
+	padding: 4px;
+	border-radius: 20px;
+	margin-top: -17px;
+	margin-left: 410px;
+}
+
+#play {
+	color: white;
+	width: 400px;
+	padding: 4px;
+	margin-top: 95px;
+	margin-left: 75px;
+	border-radius: 0px;
+
+}
+
+#play input {
+	padding: 10px;
+	width: 378px;
+    background-color: #010c1f;
+}
+
+#playlist h4 {
+	color: white;
+	padding: 0px; 
+	margin-top: -480px;
+	margin-left: 920px;
+}
+
+#playlist-1 {
+	color: white;
+	padding: 0px; 
+	margin-top: -5px;
+	margin-left: 920px;
+}
+
+#playlist-1 input {
+	padding: 10px;
+    background-color: #010c1f;
+}
+
+#playlist-2 {
+	color: white;
+	padding: 0px; 
+	margin-top: -5px;
+	margin-left: 920px;
+}
+
+#playlist-2 input {
+	padding: 10px;
+    background-color: #010c1f;
+}
+
+
+audio {
+	padding: 5px;
+	border: none;
+}
+
+source {
+	width: 150px;
+	padding: 5px;
+	background-color: #010c1f;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
